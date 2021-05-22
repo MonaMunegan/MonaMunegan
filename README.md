@@ -2,8 +2,8 @@
 - 🌱 I’m currently learning Data Science
 
 <a href="https://github.com/MonaMunegan">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=/MonaMunegan&show_icons=true&theme=merko&count_private=true" alt="Mona github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=/MonaMunegan&theme=merko&layout=compact" alt="Mona github top languages" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MonaMunegan&show_icons=true&theme=merko&count_private=true" alt="Mona github stats" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaMunegan&theme=merko&layout=compact" alt="Mona github top languages" />
 </a>
 <br/>
 
