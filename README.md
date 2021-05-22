@@ -3,7 +3,7 @@
 
 <a href="https://github.com/MonaMunegan">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=MonaMunegan&show_icons=true&theme=merko&count_private=true" alt="Mona github stats" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaMunegan&theme=merko&layout=compact" alt="Mona github top languages" />
+  
 </a>
 <br/>
 
@@ -30,6 +30,9 @@ Here are some ideas to get you started:
 <a href="https://github.com/Sanjayviswa">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Sanjayviswa&show_icons=true&theme=merko&count_private=true" alt="Sanjay K V github stats" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjayviswa&theme=merko&layout=compact" alt="Sanjay's github top languages" />
+
+
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MonaMunegan&theme=merko&layout=compact" alt="Mona github top languages" />
 </a>
 <br/>
 -->
